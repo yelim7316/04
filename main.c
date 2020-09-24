@@ -5,7 +5,7 @@
 
 int main(int argc, char *argv[]) {
 	int input;
-	int sec, min;
+
 	
 	printf("input year : ");
 	
